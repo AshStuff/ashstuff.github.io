@@ -17,6 +17,33 @@
     </item>
     
     <item>
+      <title>Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation</title>
+      <link>https://ashstuff.github.io/publications/chaos/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/publications/chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Attention Multi-instance Learning for Accurate Colorectal Cancer Staging</title>
+      <link>https://ashstuff.github.io/publications/graphmil/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/publications/graphmil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-Guided Domain Adaptation for Rapid Annotation from User Interactions: A Study on Pathological Liver Segmentation</title>
+      <link>https://ashstuff.github.io/publications/ugda/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/publications/ugda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Added Docker Build Status Badge to shields.io</title>
       <link>https://ashstuff.github.io/projects/contributions/shields-docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Image Segmentation on Homepage</title>
+    <link>https://ashstuff.github.io/tags/medical-image-segmentation/</link>
+    <description>Recent content in Medical Image Segmentation on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ashstuff.github.io/tags/medical-image-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation</title>
+      <link>https://ashstuff.github.io/publications/chaos/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/publications/chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-Guided Domain Adaptation for Rapid Annotation from User Interactions: A Study on Pathological Liver Segmentation</title>
+      <link>https://ashstuff.github.io/publications/ugda/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/publications/ugda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

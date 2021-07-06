@@ -6,7 +6,70 @@
     <description>Recent content in Tags on Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="https://ashstuff.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ashstuff.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liver segmentation</title>
+      <link>https://ashstuff.github.io/tags/liver-segmentation/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/liver-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Image Segmentation</title>
+      <link>https://ashstuff.github.io/tags/medical-image-segmentation/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/medical-image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi modal</title>
+      <link>https://ashstuff.github.io/tags/multi-modal/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/multi-modal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptation</title>
+      <link>https://ashstuff.github.io/tags/domain-adaptation/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Convolution</title>
+      <link>https://ashstuff.github.io/tags/graph-convolution/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/graph-convolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pathology</title>
+      <link>https://ashstuff.github.io/tags/pathology/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/pathology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tumor staging</title>
+      <link>https://ashstuff.github.io/tags/tumor-staging/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashstuff.github.io/tags/tumor-staging/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Docker</title>
       <link>https://ashstuff.github.io/tags/docker/</link>
